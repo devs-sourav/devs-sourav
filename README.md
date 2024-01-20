@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devs-sourav.devs-sourav" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=800&color=2859FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=460&height=100&lines=Hey+There+%F0%9F%91%8B;I'm+Mernstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Fullstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+React+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Node+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+JavaScript+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/devs-sourav/devs-sourav/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
