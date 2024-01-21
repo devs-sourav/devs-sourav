@@ -1,14 +1,17 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=devs-sourav.devs-sourav" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=800&color=2859FF&background=FFFFFF00&center=true&vCenter=true&random=false&width=460&height=100&lines=Hey+I'm+%F0%9F%91%8B+Sourav+Acherjee;I'm+Mernstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Fullstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+React+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Node+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+JavaScript+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" alt="MERN Stack Developer | Fullstack Developer | Frontend Developer | Backend Developer | JavaScript | Next js | React js | Redux js | Node js | Express | MongoDB | Firebase"/>
-</h1>
+
 
 <h3 align="center">Hi 👋, I'm <b>Sourav Acherjee</b></h3>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 <h3 align="left">MERN Stack Developer  |  Fullstack Developer  |  Frontend Developer  |  Backend Developer  |  JavaScript  |  Next js  |  React js  |  Redux js  |  Node js  |  Express  |  MongoDB  |  Firebase</h3>
-
+<br>
 <hr/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=800&color=FF9A00&background=FFFFFF00&center=true&vCenter=true&random=false&width=460&height=100&lines=Hey+I'm+%F0%9F%91%8B+Sourav+Acherjee;I'm+Mernstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Fullstack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Frontend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Backend+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+React+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+Node+JS+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+JavaScript+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;" alt="MERN Stack Developer | Fullstack Developer | Frontend Developer | Backend Developer | JavaScript | Next js | React js | Redux js | Node js | Express | MongoDB | Firebase"/>
+</h1>
+
+
 
 <br/>
 <br/>
